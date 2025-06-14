@@ -22,7 +22,7 @@ html, body {
   padding: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Proxima Nova', 'Inter', Arial, sans-serif;
   min-height: 100vh;
   scroll-behavior: smooth;
 }
